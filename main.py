@@ -1,5 +1,3 @@
-# main.py
-
 def twoSum(nums, target):
     Returnlist=[]
     for i in range(len(nums)):
